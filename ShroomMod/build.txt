@@ -1,0 +1,3 @@
+displayName = Shroom Mod
+author = Sanek, martosinc
+version = 0.1
